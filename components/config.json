@@ -18,7 +18,7 @@
         "root_folder": "",
         "root_db_name": "envision",
         "app_path": "",
-        "cookie_secret": "HmLwHhSUoR5cdfkgMNRuI6xtUmuT5Z6AhdQwd6eUkN",
+        "cookie_secret": "**",
         "cookie_saveUninitialized": "false",
         "domain": "",
         "cookie_resave": "true",
@@ -30,13 +30,6 @@
         "cookie_expires_date": 253402300000000,
         "cookie_duration": "30 * 60 * 1000000000",
         "cookie_activeDuration": "5 * 60 * 1000000000",
-        "salt": "sunnybr00k",
-        "mailer_address": "donotreply@",
-        "mailer_password": "",
-        "mailer_smtp": "",
-        "mailer_port": "587",
-        "dbuser":"envisionu", 
-        "dbpass":"w8!4fCj433ee"
     }
 }
   
