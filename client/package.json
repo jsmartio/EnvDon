@@ -28,7 +28,7 @@
   },
   "global": {
     "dropBoxPath": "https://www.dropbox.com/home/Envision%20Support/Apps/envision-jsmart-dev/",
-    "dropBoxAccessToken": "d2apFTlyJyAAAAAAAAAAZR-qoah8LC1CQqb85S6GWpGK8NtowwaA5wqUUdty1ubI",
+    "dropBoxAccessToken": "****",
     "dropBoxDownloadPath": "/"
   },
   "scripts": {
