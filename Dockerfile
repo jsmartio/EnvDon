@@ -2,7 +2,7 @@ FROM node:13
 
 RUN mkdir -p /Users/mnells/src/app
 
-WORKDIR /Users/mnells/src/app
+WORKDIR /Users/src/app
 
 EXPOSE 5000
 
