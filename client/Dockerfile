@@ -1,0 +1,9 @@
+FROM node:13
+
+RUN mkdir -p /Users/mnells/src/app
+
+WORKDIR /Users/mnells/src/app
+
+EXPOSE 3000
+
+CMD [ "npm", "start" ]
