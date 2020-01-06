@@ -1,9 +1,9 @@
 const Sequelize = require('sequelize')
 const db = {}
-const sequelize = new Sequelize('sql9317476', 
-                                'sql9317476', 
-                                'sKFqPx55ky', {
-  host: 'sql9.freemysqlhosting.net',
+const sequelize = new Sequelize('***', 
+                                '***', 
+                                '***', {
+  host: 'localhost',
   dialect: 'mysql',
   logging: console.log,
   freezeTableName: true,
