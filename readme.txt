@@ -30,10 +30,9 @@ ports 5000 and 3000 need to be open to
 a reverse proxy will need to be set up so that / maps to :3000 and /server/ maps to :5000
 
 /////
-DropBox config: (https://www.dropbox.com/developers/apps/info/1xknq46qbu6gapw)
 variables should they change are stored here: 
     client > package.json 'global'
-    dropBoxPath = 'https://www.dropbox.com/Envision%20Support/Apps/envision-jsmart-dev/'
+    dropBoxPath = '***'
     dropBoxAccessToken = '***'
     dropBoxDownloadPath = '/'
 
