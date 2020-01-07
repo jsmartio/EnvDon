@@ -1,6 +1,6 @@
 FROM node:13
 
-RUN mkdir -p /Users/mnells/src/app
+RUN mkdir -p /Users/src/app
 
 WORKDIR /Users/src/app
 
